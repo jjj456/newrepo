@@ -1,0 +1,7 @@
+{
+    errors =     {
+        birthday =         (
+            "can't be in the future."
+        );
+    };
+}
