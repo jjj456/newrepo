@@ -1,3 +1,5 @@
+
+BBB
 {
     errors =     {
         birthday =         (
@@ -5,3 +7,5 @@
         );
     };
 }
+
+AAA
